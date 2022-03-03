@@ -1,7 +1,0 @@
-#!/bin/bash
-clear
-javac -s Paint -d bin Paint/*.java
-java -cp bin MiniPaint
-
-
-
